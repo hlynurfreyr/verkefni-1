@@ -14,3 +14,4 @@
    + git checkout - skiptir um branch
    + git branch - sýnir, býr til eða eyðir branch
 4. Hvað er útgáfustýring (Version Control)? -  notað til að vinna með skrár
+5. Hverjir eru helstu kostir við að nota GIT? - það er hægt að sjá um útgáfustjórn án viðkomu gagnamiðils
