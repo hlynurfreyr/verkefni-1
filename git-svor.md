@@ -9,3 +9,7 @@
    + git clone - klonar git geymslku í nýtt vinnusvæði
    + git status - athugar stöðu geymslu
    + git diff - sæynir beytingar sem þú ert að vinna í
+3. Hvað gera eftirfarandi Git skipanir saman? Hvaða gagn er að þeirri aðgerð?
+   + git log - sýnir log yfir öll commitin
+   + git checkout - skiptir um branch
+   + git branch - sýnir, býr til eða eyðir branch
