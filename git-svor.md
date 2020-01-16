@@ -13,3 +13,4 @@
    + git log - sýnir log yfir öll commitin
    + git checkout - skiptir um branch
    + git branch - sýnir, býr til eða eyðir branch
+4. Hvað er útgáfustýring (Version Control)? -  notað til að vinna með skrár
